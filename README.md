@@ -16,7 +16,7 @@ No initial setup is required
 # Requirements
 Implemented and tested using Java 8<br>
 Tests require JUnit and Mockito<br>
-Project dependencies and compiling managed by Maven
+Project dependencies and compiling managed by Maven<br>
 Code coverage done using Jacoco
 
 # Run:
@@ -24,8 +24,8 @@ Set configuration for Application(main) class
 
 # Additional Enhancements
 
-Implement authentication and session state
-Can be implemented with Crud repositories
+Implement authentication and session state<br>
+Can be implemented with Crud repositories<br>
 
 # Test Cases Executed
 ![image](TestCases.png)
