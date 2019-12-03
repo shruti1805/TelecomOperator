@@ -39,4 +39,4 @@ Can be implemented with Crud repositories
 ![image](TestingGet.png)    
 
 # API Interface Using Swagger
-![image] (SwaggerAPIinterface.png)
+![image](SwaggerAPIinterface.png)
